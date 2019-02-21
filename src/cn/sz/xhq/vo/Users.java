@@ -23,4 +23,5 @@ public class Users {
 	public void setPwd(String pwd) {
 		this.pwd = pwd;
 	}
+	
 }
